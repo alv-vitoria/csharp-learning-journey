@@ -59,7 +59,7 @@ dotnet run
 ---
 
 ## Status da jornada
-![Progresso](https://img.shields.io/badge/progresso-15%25-red?style=for-the-badge)
+![Progresso](https://img.shields.io/badge/progresso-17%25-red?style=for-the-badge)
 
 ```
 Objetivo -- Criar um rpg simples pela Unity
